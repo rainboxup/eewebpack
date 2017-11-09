@@ -1,1 +1,0 @@
-alert('hehe 嗯嗯')
